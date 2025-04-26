@@ -23,6 +23,6 @@ O diagrama foi modelado utilizando o software **Astah UML**.
 
 > O diagrama representa a interface `iPhone` sendo implementada por três classes: `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`.
 
-### Tecnologias utilizadas:### Tecnologias utilizadas:
+### Tecnologias utilizadas:
 - UML
 - Astah Community
