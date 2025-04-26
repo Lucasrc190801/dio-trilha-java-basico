@@ -1,1 +1,15 @@
-Este sistema recebe dois números como parâmetros por meio da classe Scanner e realiza a subtração do segundo parâmetro com o primeiro parâmetro. Após armazenar o resultado na variável contagem, é executado um loop for sobre a variável exibindo uma mensagem ao usuário imprimindo os valores resultantes. Caso o primeiro parâmetro seja maior que o segundo parâmetro, o sistema trata a exceção e informa ao usuário sobre os valores inseridos. 
+# Contador de Números com Validação de Parâmetros
+
+Este projeto em Java recebe dois números informados pelo usuário e realiza uma contagem de números, com verificação de parâmetros válidos.
+
+## Funcionalidades
+
+- Recebe dois números inteiros como entrada.
+- Calcula a diferença entre eles e realiza uma contagem.
+- Se o primeiro número for maior que o segundo, lança uma exceção personalizada.
+
+## Tecnologias Utilizadas
+
+- Java 17+
+- IDE: Visual Studio Code
+

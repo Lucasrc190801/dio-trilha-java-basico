@@ -1,1 +1,18 @@
-Este projeto consiste na interação com o usuário de uma conta bancária por meio da importação da classe Scanner. O usuário deverá fornecer os dados pessoais no terminal e receberá uma notificação informando que os dados foram cadastrados com sucesso e a conta bancária foi criada. 
+# Projeto: Conta Bancária via Terminal
+
+Este projeto em Java realiza a simulação da criação de uma conta bancária, interagindo com o usuário através do terminal.
+
+## Funcionalidades
+
+- Solicita ao usuário:
+  - Número da agência
+  - Número da conta
+  - Saldo inicial
+  - Nome e sobrenome
+- Exibe uma mensagem personalizada confirmando a criação da conta.
+
+## Tecnologias Utilizadas
+
+- Java 17+
+- IDE: Eclipse
+
